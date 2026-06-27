@@ -11,3 +11,6 @@ CS and Programming study notes
 
 ## Unity
 - [Unity-Theory-Summary](https://github.com/Browns2026/Unity-Theory-Summary)
+
+# Daily Log
+- [Daily Log] ()  
