@@ -13,4 +13,4 @@ CS and Programming study notes
 - [Unity-Theory-Summary](https://github.com/Sue-mile/Unity-Theory-Summary)
 
 # Daily Log
-- [Daily Log] (https://github.com/Sue-mile/Daily_Log)
+- [Daily Log]([https://github.com/Sue-mile/Daily_Log](https://github.com/Sue-mile/Study-Archive/blob/main/Daily_Log.md))
