@@ -2,12 +2,15 @@
 CS and Programming study notes
 
 ## Programming
-- [C_Study](https://github.com/Browns2026/C_Study)
-- [Java_Study](https://github.com/Browns2026/Java_Study)
+- [C_Study](https://github.com/Sue-mile/C_Study)
+- [Java_Study](https://github.com/Sue-mile/Java_Study)
 
 ## Computer Science
-- [Database_Study](https://github.com/Browns2026/Database_Study)
-- [CS-Words](https://github.com/Browns2026/CS-Words)
+- [Database_Study](https://github.com/Sue-mile/Database_Study)
+- [CS-Words](https://github.com/Sue-mile/CS-Words)
 
 ## Unity
-- [Unity-Theory-Summary](https://github.com/Browns2026/Unity-Theory-Summary)
+- [Unity-Theory-Summary](https://github.com/Sue-mile/Unity-Theory-Summary)
+
+# Daily Log
+- [Daily Log] ()  
