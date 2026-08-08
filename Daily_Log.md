@@ -48,7 +48,7 @@
 PS. 학원에서는 3D 캐릭터를 이용해, 2D Sprite 만드는 recording 을 배웠다.
 
 <details>
-<summary>DAILY LOG_ JUNE 2026</summary>
+<summary><H3>DAILY LOG_ JUNE 2026</H3></summary>
 6/30 — 5시 기상, 오전에는 온몸이 무겁고, 오후에는 온모이 아프고 비가오긴 하려나보다.  
 전날 저녁에 친구가 시험 공부에도 유형이 있다고 했다. 머릿속에 넣기만 한다고 답이 아니라 그걸 출력할 줄도 알아야 한다고 했다. 그래서 이제는 시험치듯이 공부를 해볼 예정이다.
 
